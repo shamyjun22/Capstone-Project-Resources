@@ -1,0 +1,51 @@
+Chapter 1
+1.1	Project Context
+Evidences of how system is utilized (statistics, hard evidences - recent) as cited by many authors (different authors with the same statement).
+
+1.2	Description of the Project (based on interview)
+Description
+•	Products
+•	Building (Two stories)
+•	Staff
+•	Student worker
+•	Sections
+•	Location
+History
+•	Operated first
+•	Annual Revenue for the previous years (5 years) if losing or income (Graph)
+Operation
+•	Describe how it operates
+
+1.3	Purpose of the Project
+•	Problems encountered on operation
+•	Reasons why they met those problems
+•	Problems that you want to solve
+
+1.4	Project Objectives
+General Objective
+•	One sentence only – “To develop a product recommender system for AUP University Store”
+Specific Objective
+•	To address general objective, what are the things need to be done
+•	This will solve the problems encountered in operation.
+•	Features of the system. Example: The system will generate reports, graph, visualize in charts by monthly, weekly, etc.
+
+1.5	Scope and Limitation of the project
+•	Web based – Browser (version, responsive, run on mobile, local or online)
+•	State your excuses of its limitation (lahat ng hindi kayang gawin, bakit hindi sinama, “kulang sa time”)
+
+ 
+1.6	Significance of the Project
+•	Why develop a system?
+•	Who will benefit (Store, AUP Department, AUP, Government, Community, future researchers, any stakeholder)
+“It can identify product to be purchase”. Kung ano ang mabintang product
+
+Chapter 2
+2.1 Technical Background
+•	Expand the project context
+
+2.2 Review of Related Literature
+•	This will answer: who, what, where, when, how.
+•	Add synthesis every literature or at the end of the section. Synthesis of your system similarity to the literature, or not similar.
+
+Chapter 3
+	Document everything you have done.
