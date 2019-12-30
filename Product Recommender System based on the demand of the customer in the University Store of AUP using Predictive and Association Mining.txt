@@ -158,6 +158,8 @@ Fatmawatie, B. & Baizal, Z K (2019)
 
 2.2.5	A content-based recommender system for computer science publications
 
+The system was developed in 2018 by Wang, D. et al. at Jillin University, Changchun, China. The recommender system assist
+
 
 
 
